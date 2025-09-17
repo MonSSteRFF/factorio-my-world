@@ -1,0 +1,38 @@
+
+{
+  "mods": 
+  [
+    
+    {
+      "name": "base",
+      "enabled": true
+    },
+    
+    {
+      "name": "elevated-rails",
+      "enabled": true
+    },
+    
+    {
+      "name": "quality",
+      "enabled": true
+    },
+    
+    {
+      "name": "space-age",
+      "enabled": true
+    },
+    {
+      "name": "flib",
+      "enabled": true
+    },
+    {
+      "name": "RateCalculator",
+      "enabled": true
+    },
+    {
+      "name": "squeak-through-2",
+      "enabled": true
+    }
+  ]
+}
